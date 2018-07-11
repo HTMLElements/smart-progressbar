@@ -8,7 +8,7 @@
 |
 [Installation ↗](https://www.npmjs.com/package/@smarthtmlelements/smarthtmlelements-core)
 
-[&lt;smart-tabs&gt;](https://htmlelements.com/demos/tabs/) is a Tabs Custom HTML Element that make it easy to explore and switch between different views, part of the [Smart HTML Elements](https://htmlelements.com/).
+[&lt;smart-progress-bar&gt;](https://htmlelements.com/demos/progressbar/) is a ProgressBar Custom HTML Element that displays determinate or indeterminate linear or circular progress indicator, part of the [Smart HTML Elements](https://htmlelements.com/).
 
 <!--
 ```
