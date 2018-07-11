@@ -32,7 +32,7 @@
 
 [<img src="https://raw.githubusercontent.com/htmlelements/smart-progressbar/master/linear-progressbar.gif" alt="Screenshot of smart-progressbar, using the Material theme">](https://htmlelements.com/demos/progressbar)
 
-[<img src="https://raw.githubusercontent.com/htmlelements/smart-progressbar/master/circular-progressbar.gif" alt="Screenshot of smart-progressbar, using the Material theme">](https://htmlelements.com/demos/progressbar)
+[<img src="https://raw.githubusercontent.com/htmlelements/smart-progressbar/master/circular-progres-sbar.gif" alt="Screenshot of smart-progressbar, using the Material theme">](https://htmlelements.com/demos/progressbar)
 
 ## Getting Started
 
