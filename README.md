@@ -1,6 +1,6 @@
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/htmlelements/smart-progressbar)
 
-# &lt;smart-tabs&gt;
+# &lt;smart-progress-bar&gt;
 
 [Live Demo ↗](https://htmlelements.com/demos/progressbar/)
 |
@@ -28,11 +28,11 @@
 <smart-progress-bar class="animation determinate"></smart-progress-bar>
 ```
 
-[<img src="https://raw.githubusercontent.com/htmlelements/smart-progressbar/master/linear-progressbar-custom-element.png" alt="Screenshot of smart-progressbar, using the Material theme">](https://htmlelements.com/demos/progressbar)
+[<img src="https://raw.githubusercontent.com/htmlelements/smart-progressbar/master/progress-bar-custom-element.png" alt="Screenshot of smart-progressbar, using the Material theme">](https://htmlelements.com/demos/progressbar)
 
 [<img src="https://raw.githubusercontent.com/htmlelements/smart-progressbar/master/linear-progressbar.gif" alt="Screenshot of smart-progressbar, using the Material theme">](https://htmlelements.com/demos/progressbar)
 
-[<img src="https://raw.githubusercontent.com/htmlelements/smart-progressbar/master/circular-progres-sbar.gif" alt="Screenshot of smart-progressbar, using the Material theme">](https://htmlelements.com/demos/progressbar)
+[<img src="https://raw.githubusercontent.com/htmlelements/smart-progressbar/master/circular-progress-bar.gif" alt="Screenshot of smart-progressbar, using the Material theme">](https://htmlelements.com/demos/progressbar)
 
 ## Getting Started
 
