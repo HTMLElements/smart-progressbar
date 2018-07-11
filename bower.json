@@ -1,0 +1,29 @@
+{
+  "name": "smart-progressbar",
+  "authors": [
+    "jQWidgets Ltd"
+  ],
+  "description": "Smart ProgressBar is a free Custom Element, built using Javascript, HTML and CSS.",
+  "license": "Apache-2.0",
+  "keywords": [
+    "smart progressbar",
+    "progressbar",
+    "linear progressbar",
+    "html progressbar",
+    "html circular progressbar",
+    "javascript progressbar",
+    "progressbar custom element",
+    "custom elements"
+  ],
+  "main": "",
+  "ignore": [
+    "**/.*",
+    "**/node_modules",
+    "**/bower_components",
+    "**/tests"
+  ],
+  "dependencies": {
+    "webcomponentsjs": "^1.0.0",
+    "smart-core": "HTMLElements/smart-core"
+  }
+}
