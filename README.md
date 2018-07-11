@@ -28,11 +28,11 @@
 <smart-progress-bar class="animation determinate"></smart-progress-bar>
 ```
 
-[<img src="https://raw.githubusercontent.com/htmlelements/smart-tabs/master/linear-progressbar.png" alt="Screenshot of smart-progressbar, using the Material theme">](https://htmlelements.com/demos/progressbar)
+[<img src="https://raw.githubusercontent.com/htmlelements/smart-progressbar/master/linear-progressbar-custom-element.png" alt="Screenshot of smart-progressbar, using the Material theme">](https://htmlelements.com/demos/progressbar)
 
-[<img src="https://raw.githubusercontent.com/htmlelements/smart-tabs/master/linear-progressbar.gif" alt="Screenshot of smart-progressbar, using the Material theme">](https://htmlelements.com/demos/progressbar)
+[<img src="https://raw.githubusercontent.com/htmlelements/smart-progressbar/master/linear-progressbar.gif" alt="Screenshot of smart-progressbar, using the Material theme">](https://htmlelements.com/demos/progressbar)
 
-[<img src="https://raw.githubusercontent.com/htmlelements/smart-tabs/master/circular-progressbar.gif" alt="Screenshot of smart-progressbar, using the Material theme">](https://htmlelements.com/demos/progressbar)
+[<img src="https://raw.githubusercontent.com/htmlelements/smart-progressbar/master/circular-progressbar.gif" alt="Screenshot of smart-progressbar, using the Material theme">](https://htmlelements.com/demos/progressbar)
 
 ## Getting Started
 
