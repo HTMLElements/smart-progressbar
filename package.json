@@ -1,0 +1,49 @@
+{
+  "name": "@smarthtmlelements/smart-progressbar",
+  "version": "1.0.0",
+  "description": "Smart ProgressBar",
+   "scripts": { 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HTMLElements/smart-progressbar.git"
+  },
+  "author": "Smart HTML Elements",
+  "license": "SEE LICENSE IN https://www.htmlelements.com/license/",
+  "bugs": {
+    "url": "https://github.com/HTMLElements/smart-progressbar"
+  },
+  "homepage": "https://github.com/HTMLElements/smart-progressbar#readme",
+  "devDependencies": {
+ 
+  },
+  "dependencies": {
+    "@webcomponents/webcomponentsjs": "^1.0.22",
+     "@smarthtmlelements/smart-core": "^1.1.0"
+  },
+  "main": "index.js",
+  "directories": {},
+  "keywords": [
+	"custom",
+	"element",
+	"progressbar custom element",
+	"html progressbar",
+	"tabs",
+	"web components progressbar",
+	"progressbar element",
+	"progressbar",
+	"custom progressbar",
+	"progressbar widget",
+	"progressbar ui",
+	"progressbar component",
+	"progressbar control",
+	"custom elements",
+	"webcomponents",
+	"progress bar custom element",
+ 	"progressbars",
+  	"progressbar element",
+  	"progressbar user interface",
+  	"progressbar tabs",
+  	"progressbar tabstrip"
+  ]
+}
